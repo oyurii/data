@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <channel>
+        <title>Playlist001</title>
+        <playlist_url><![CDATA[http://simlab.tk/data/widget/Playlist001.xml]]></playlist_url>
+        <logo_30x30></logo_30x30>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Playlist002</title>
+        <playlist_url><![CDATA[http://simlab.tk/data/widget/Playlist002.xml]]></playlist_url>
+        <logo_30x30></logo_30x30>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Playlist003</title>
+        <playlist_url><![CDATA[http://simlab.tk/data/widget/Playlist003.xml]]></playlist_url>
+        <logo_30x30></logo_30x30>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Playlist004</title>
+        <playlist_url><![CDATA[http://simlab.tk/data/widget/Playlist004.xml]]></playlist_url>
+        <logo_30x30></logo_30x30>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Playlist005</title>
+        <playlist_url><![CDATA[http://simlab.tk/data/widget/Playlist005.xml]]></playlist_url>
+        <logo_30x30></logo_30x30>
+        <category_id>1</category_id>
+    </channel>
+</items>

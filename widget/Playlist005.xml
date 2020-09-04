@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>Playlist005</playlist_name>
+  <channel>
+    <title>Капкан для киллера</title>
+    <stream_url><![CDATA[http://192.168.1.111/Kapkan.avi]]></stream_url>
+    <logo_30x30></logo_30x30>
+    <category_id>1</category_id>
+  </channel>
+</items>
